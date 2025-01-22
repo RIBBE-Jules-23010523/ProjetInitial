@@ -26,3 +26,16 @@ d629942fe343331a3c2b401246e53fc694baeca7
 # C. Gestion de fichiers 
 13) je configure le fichier ```.gitingore``` afin d'ignorer les fichiers dont l'extension est ```.txt``` comme voulu. Il suffit d'y ajouter cette ligne ```*.txt```
 14) Fait ✅ 
+
+# D. Branches
+15) Fait ✅ 
+16) Il y a deux branches actuellement :
+```main``` et  ```PremiereBranche```
+17) Pas fait ❌ (par choix)
+18) Fait ✅ 
+19) Fait ✅ 
+20) Fait ✅ 
+21) Fait ✅ 
+22) Fait ✅ 
+23) Fait ✅ 
+24) Fait ✅ 
