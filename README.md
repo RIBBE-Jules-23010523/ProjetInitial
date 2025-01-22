@@ -39,3 +39,14 @@ d629942fe343331a3c2b401246e53fc694baeca7
 22) Fait ✅ 
 23) Fait ✅ 
 24) Fait ✅ 
+
+# E. Fusion de branches
+25) Fait ✅ 
+26) Fait ✅ 
+27) Fait ✅ 
+28) L'ID de mon dernier commit sur ```main``` est : ```e4512a95d55bf606b5fde0d5ec815249d8398f12```
+29) L'ID de mon dernier commit sur ```PremiereBranche```est :
+```e49df461ec742e4f5d0dac925263bc9fbc08ab16``` --> Revert Update fichier3.txt soit j'ai annulé un commit et j'ai remis fichier3.txt dans une ancienne version
+30) Fait ✅ 
+31) J'ai merge mes deux branches pour y ajouter les changements 
+32) Fait ✅ 
